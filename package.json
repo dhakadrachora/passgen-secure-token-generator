@@ -1,0 +1,8 @@
+{
+  "name": "passgen-secure-token-generator",
+  "version": "1.0.0",
+  "description": "Generate unhackable, cryptographically secure passwords, UUIDs, and API secret keys in 1 click.",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
